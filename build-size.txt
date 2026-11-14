@@ -1,0 +1,26 @@
+Unity 6000.3.8f1
+Дата сборки: 2026-11-14 11:52
+Время сборки: 10 с
+compressionFormat: Disabled
+decompressionFallback: False
+threadSupport: нет в этой версии Unity (выключено)
+exceptionSupport: None
+template: PROJECT:WebXR2020
+
+     48,47 МБ   Build/WebGL.wasm
+     15,51 МБ   Build/WebGL.data
+      0,52 МБ   Build/WebGL.framework.js
+      0,03 МБ   Build/WebGL.loader.js
+      0,00 МБ   index.html
+      0,00 МБ   TemplateData/unity-logo-light.png
+      0,00 МБ   TemplateData/unity-logo-dark.png
+      0,00 МБ   TemplateData/webgl-logo.png
+      0,00 МБ   TemplateData/favicon.ico
+      0,00 МБ   TemplateData/style.css
+      0,00 МБ   TemplateData/fullscreen-button.png
+      0,00 МБ   TemplateData/progress-bar-empty-light.png
+      0,00 МБ   TemplateData/progress-bar-empty-dark.png
+      0,00 МБ   TemplateData/progress-bar-full-light.png
+      0,00 МБ   TemplateData/progress-bar-full-dark.png
+
+ИТОГО: 64,54 МБ
